@@ -1,0 +1,17 @@
+#Topics
+	2.1		Functions
+	2.2		The Graph of a Function
+	2.3		Properties of Functions
+	2.4		Library of Functions; Piecewise-defined Functions
+	2.5		Graphing Techniques: Transformations
+
+#REVIEW MOST NEEDED
+2.1	Functions
+		i. Finding the Domain of a function from equation
+		ii. Difference Quotient
+
+2.2 - 2.4
+		i. Interpreting Function Graphs
+
+2.5	Graphing Techniques: Transformations
+		i. Transformation of Equations
